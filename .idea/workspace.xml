@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57827249-c3fe-4cf6-a14c-e718d730210a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AD-BLINDNESS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/java/com/example/ad/FilterActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/java/com/example/ad/ProfileActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AD/app/src/main/java/com/example/ad/ProfileActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/daltonimo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_blackboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_camerabutton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_cancel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_drop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_film.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_filter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_filter_white.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_gold_medal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_photo_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_photo_camera_white.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_poster.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_sun.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/drawable/ic_white_board.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/layout/activity_filter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/app/src/main/res/layout/filter_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AD/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26ojO0G5TJhTDyGsex8d8qwe9iN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AD" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57827249-c3fe-4cf6-a14c-e718d730210a" name="Default Changelist" comment="" />
+      <created>1648096797077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648096797077</updated>
+    </task>
+    <servers />
+  </component>
+</project>

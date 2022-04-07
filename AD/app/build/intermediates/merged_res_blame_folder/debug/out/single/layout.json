@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\arodr\\OneDrive\\Documentos\\GitHub\\AD-BLINDNESS\\AD\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    }
+]
